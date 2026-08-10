@@ -1,4 +1,4 @@
-ML Momentum Trading Strategy
+# ML Momentum Trading Strategy
 
 📌 Project Overview
 
