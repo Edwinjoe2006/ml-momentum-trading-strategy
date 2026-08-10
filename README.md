@@ -112,6 +112,6 @@ The strategy can be evaluated using:
 
 This project is intended for educational and research purposes only. Historical backtesting results do not guarantee future market performance. It should not be considered financial or investment advice.
 
-👨‍💻 Author
+👨‍💻 Author: Edwin joe.M
 
 Developed as an academic/project-based machine learning application for studying momentum-based trading strategies.
