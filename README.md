@@ -49,7 +49,3 @@ Performance metrics include:
 - Sharpe Ratio
 - Maximum Drawdown
 - Hit Rate
-
----
-
-## Project Structure
